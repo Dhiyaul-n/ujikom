@@ -83,6 +83,11 @@
 </template>
 
 <style scoped>
+
+    .wrapper {
+        background: white;
+    }
+    
 .contain {
     background: linear-gradient(180deg, #011a3b, #033d8c);
 }
